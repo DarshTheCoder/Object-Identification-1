@@ -1,0 +1,16 @@
+body
+{
+    background-size:cover;
+
+}
+span{
+    color:yellow;
+}
+.copy_right_footer
+{
+bottom:0;
+position:fixed;
+background-color:red;
+width:100%;
+text-align:center;
+}
